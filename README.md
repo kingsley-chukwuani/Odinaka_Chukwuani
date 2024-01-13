@@ -4,6 +4,7 @@
 `VERSION CONTROL`: This is also known as source control or revision control, its a system that tracks changes to files over time so that you can recall specific versions later. its an essential tool for software development, web development and other collabortative projects where multiple work on shared files.
 
 `DIFFERENCES BETWEEN GIT AND GITHUB`: 
+
 GIT-- is a tool for tracking changes to files over time.
       This is an open source and free to use.
       This is used by developers, writers, designers and anyone who works with digital files.
